@@ -58,7 +58,6 @@ if __name__ == "__main__":
   except OverflowError:
     print('Overflow. Input value must be between (-2^63) and (2^63 - 1), inclusive.')
     exit()
-  print(input)
   
   # Run program
   try:
